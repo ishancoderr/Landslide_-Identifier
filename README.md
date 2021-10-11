@@ -67,3 +67,5 @@ Very Low Risk Area = 451.913 km2 (17%)
 
 
 ●	Above percentages and Landslide susceptibility Map was used for mobile application.
+
+## Mobile Application Demo-https://www.youtube.com/watch?v=VsrYYLDj-0g
