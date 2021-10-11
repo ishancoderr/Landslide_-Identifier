@@ -44,8 +44,11 @@ In LSI model, reclassified factor maps were overlaid and weights ranging from 0%
 After the analyzing, the LSI value ranged from 16 to 50 in this study. Finally, LSI map was reclassified into four susceptibility categories to prepare the landslide susceptibility map of the study area as follows, 
 
 •	16 to 24 value range is as Very low risk area
+
 •	24 to 31 value range is as low risk area
+
 •	31 to 38 value range is as moderate risk area
+
 •	38 to 50 value range is as high risk area
 
 
