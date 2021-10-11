@@ -53,3 +53,16 @@ After the analyzing, the LSI value ranged from 16 to 50 in this study. Finally, 
 
 
 ## Final Risk Map
+
+Following table shows the areas of each category in square kilometers and the percentages of each risk category with corresponding to the total land area of badulla district.
+
+
+High Risk Area = 159.767 km2 (6%)
+
+Moderate Risk Area = 1060.939km2 (40%)
+
+Low Risk Area = 987.539  km2   (34%) 
+
+Very Low Risk Area = 451.913 km2 (17%) 
+
+
